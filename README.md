@@ -32,7 +32,7 @@ $$w := w - \alpha \frac{1}{m} \sum_{i=1}^{m} (h_\theta(x^{(i)}) - y^{(i)}) x^{(i
 The script uses `matplotlib` to output a scatter plot of the actual dataset overlaid with the final Regression Line computed by the optimized weights and bias.
 
 ## 🛠️ Technologies Used
-* **Python 3.x**
+* **Python 3**
 * **NumPy** (Vectorized matrix operations)
 * **Pandas** (Data ingestion)
 * **Matplotlib** (Data visualization)
